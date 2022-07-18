@@ -1,0 +1,41 @@
+.body
+{
+    background-color: black;
+  
+}
+.title
+{
+    color: green;
+    text-align: center;
+}
+
+.one
+{
+    width:200px;
+    border-radius: 100px;
+    float: left;
+    text-align: center;
+}
+
+.two
+{
+    width:200px;
+    border-radius: 100px;
+    float: right;
+    text-align: center;
+}
+
+.heading
+{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.song_name
+{
+    color: white;
+    background-color: red;
+    border-radius: 30px;
+}
